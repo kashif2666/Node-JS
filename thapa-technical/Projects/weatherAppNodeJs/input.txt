@@ -1,0 +1,18 @@
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key} 
+
+
+4e9515e33665422d85ba858b07e6a9a0
+
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Jamshedpur&appid=4e9515e33665422d85ba858b07e6a9a0
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Jamshedpur,20,+91&appid=4e9515e33665422d85ba858b07e6a9a0
+
+https://api.openweathermap.org/data/2.5/weather?q=Jamshedpur,+91&appid=4e9515e33665422d85ba858b07e6a9a0 
+
+
+https://api.openweathermap.org/data/2.5/weather?q=jamshedpur&appid=4e9515e33665422d85ba858b07e6a9a0
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=4e9515e33665422d85ba858b07e6a9a0
